@@ -8,7 +8,7 @@ główny kod znajduje się w main.py, gdyby nie działało car-games.exe prosimy
 
 w _internal znajdują się grafiki oraz dźwięki
 
-en1.png to projekt przeciwnika który nie pojawił się w ostatecznej wersji gry (eater egg)
+en1.png to projekt przeciwnika który nie pojawił się w ostatecznej wersji gry (easter egg)
 
 życzymy miłej gry
 
